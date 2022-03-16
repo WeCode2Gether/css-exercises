@@ -1,0 +1,22 @@
+.PinkP {
+    background-color: pink;
+}
+
+body {
+    font-family: Verdana, DejaVuSans, sans-serif;
+}
+
+#Div1 {
+    color: blue;
+    font-size: 36px;
+}
+
+#Div2 {
+    background-color: lightgreen;
+    font-weight: bold;
+    font-size: 24px;
+}
+
+.PinkP#PinkPID {
+font-size: 24px;
+}
